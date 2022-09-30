@@ -1,5 +1,5 @@
 # SDN
-Resources related to SDN.
+Resources related to SDN are found at this place.
 This contribution is done by the team of Dr Bhargavi Goswami.
 Her domain of research is Software Defined Networks.
 Currently her interest focus on building solution for Smart Grid Communication, Cyber Security and Blockchain Applications.
